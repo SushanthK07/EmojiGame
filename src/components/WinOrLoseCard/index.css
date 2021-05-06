@@ -1,0 +1,5 @@
+.result-card {
+  padding: 20px;
+  display: flex;
+  align-self: center;
+}
